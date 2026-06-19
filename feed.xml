@@ -1,17 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Tuesday, June 16 2026 · AI &amp; Technology</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
-<h1 style="color:#1a1a2e">Daily Briefing — Tuesday, June 16 2026</h1>
-<p style="font-size:16px;font-style:italic;color:#444">AI leaders call for synthetic DNA regulation as governance gaps widen in enterprise deployments</p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Friday, June 19 2026 · Claude Ecosystem, AI &amp; Technology, Financial Services Technology</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
+<h1 style="color:#1a1a2e">Daily Briefing — Friday, June 19 2026</h1>
+<p style="font-size:16px;font-style:italic;color:#444">Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</p>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
+<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Claude Ecosystem</h2>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://www.mobihealthnews.com/news/openai-google-deepmind-anthropic-request-synthetic-dna-screening-legislation" style="color:#1a1a2e">OpenAI, Anthropic, Google DeepMind, and Microsoft CEOs Call for Synthetic DNA Screening Legislation</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — MobiHealthNews</span>
+    #1 — <a href="https://releasebot.io/updates/anthropic" style="color:#1a1a2e">Claude Platform Adds Workload Identity Federation and MCP Tunnels for Enterprise Agents</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Releasebot / Anthropic</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Directly addresses AI governance and responsible deployment of advanced AI capabilities in regulated biosecurity contexts—a critical enterprise governance challenge Cristiano faces at Eidosmedia</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333">A coalition of AI leaders including CEOs from OpenAI, Anthropic, Google DeepMind, and Microsoft submitted a letter to U.S. Congress on June 15 calling for mandatory screening of synthetic DNA and RNA orders to prevent misuse. The signatories argue that advances in AI are lowering the technical barriers for bad actors to weaponize biological materials, making legislative safeguards necessary.</p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Direct relevance to Cristiano's Claude-based personal AI assistant OS—WIF eliminates static API keys for your infrastructure, and MCP tunnels enable agents to reach private servers without public exposure.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="10-1,10-2">Claude releases Workload Identity Federation bringing keyless authentication across API endpoints, SDKs, and Claude Code, plus service accounts and Admin API support.</cite> <cite index="10-3,10-4,10-5,10-6">MCP tunnels (research preview) let agents reach MCP servers inside private networks without public exposure, using a lightweight encrypted gateway managed from Claude Console.</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://llm-stats.com/ai-news" style="color:#1a1a2e">OpenAI Upgrades ChatGPT Healthcare Capabilities with GPT-5.5 Instant</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — LLM Stats</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Signals competitive healthcare AI deployment and model capability expansion—contextual for tracking OpenAI's enterprise positioning against Anthropic's agentic gains.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="14-1,14-2,14-3">OpenAI upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant, which in comparative tests now outscores answers written by doctors in accuracy, clarity, and completeness.</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Financial Services Technology</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://fintech.global/2026/06/18/navigating-the-next-era-of-ai-enabled-banking" style="color:#1a1a2e">Mollie Expands Across All 30 European Economic Area Countries with €350M Commitment</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ EU payment infrastructure expansion is relevant context for Eidosmedia's sell-side and buy-side clients operating cross-border, and signals broader financial services digitalization Cristiano's R+ product targets.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="24-3">Mollie, a fast-growing European financial services provider, has become fully operational across all 30 European Economic Area countries and is committing €350m over time.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://fintech.global/2026/06/18/navigating-the-next-era-of-ai-enabled-banking" style="color:#1a1a2e">SailPoint Acquires Entro for Non-Human Identity and Credentials Security</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ NHI (non-human identity) security is directly relevant to governance of agentic AI in regulated finance—as your enterprise AI agents scale, credential and identity management for bots becomes a compliance requirement.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="24-3">SailPoint, a Nasdaq-listed enterprise identity security company, announced plans to acquire Tel Aviv-based Entro, a specialist in non-human identity (NHI) and credentials security.</cite></p>
 </div>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-06-16</p>
-</body></html>]]></description><pubDate>Tue, 16 Jun 2026 09:30:23 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-06-16.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-06-16.mp3" length="7199085" type="audio/mpeg" /><itunes:title>Daily Briefing — Tuesday, June 16 2026 · AI &amp; Technology</itunes:title><itunes:subtitle>AI leaders call for synthetic DNA regulation as governance gaps widen in enterprise deployments</itunes:subtitle><itunes:summary>AI leaders call for synthetic DNA regulation as governance gaps widen in enterprise deployments</itunes:summary><itunes:duration>00:06:12</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
+<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-06-19</p>
+</body></html>]]></description><pubDate>Fri, 19 Jun 2026 09:08:19 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-06-19.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-06-19.mp3" length="6550605" type="audio/mpeg" /><itunes:title>Daily Briefing — Friday, June 19 2026 · Claude Ecosystem, AI &amp; Technology, Financial Services Technology</itunes:title><itunes:subtitle>Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</itunes:subtitle><itunes:summary>Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</itunes:summary><itunes:duration>00:05:21</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
