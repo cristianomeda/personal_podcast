@@ -1,41 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Friday, June 19 2026 · Claude Ecosystem, AI &amp; Technology, Financial Services Technology</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
-<h1 style="color:#1a1a2e">Daily Briefing — Friday, June 19 2026</h1>
-<p style="font-size:16px;font-style:italic;color:#444">Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Tuesday, June 23 2026 · AI &amp; Technology</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
+<h1 style="color:#1a1a2e">Daily Briefing — Tuesday, June 23 2026</h1>
+<p style="font-size:16px;font-style:italic;color:#444">Google loses top AI researchers to OpenAI and Anthropic as talent consolidates around frontier labs</p>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Claude Ecosystem</h2>
+<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://releasebot.io/updates/anthropic" style="color:#1a1a2e">Claude Platform Adds Workload Identity Federation and MCP Tunnels for Enterprise Agents</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Releasebot / Anthropic</span>
+    #1 — <a href="https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/" style="color:#1a1a2e">Google Loses Two Top AI Researchers To OpenAI & Anthropic</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Search Engine Journal</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Direct relevance to Cristiano's Claude-based personal AI assistant OS—WIF eliminates static API keys for your infrastructure, and MCP tunnels enable agents to reach private servers without public exposure.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="10-1,10-2">Claude releases Workload Identity Federation bringing keyless authentication across API endpoints, SDKs, and Claude Code, plus service accounts and Admin API support.</cite> <cite index="10-3,10-4,10-5,10-6">MCP tunnels (research preview) let agents reach MCP servers inside private networks without public exposure, using a lightweight encrypted gateway managed from Claude Console.</cite></p>
-</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://llm-stats.com/ai-news" style="color:#1a1a2e">OpenAI Upgrades ChatGPT Healthcare Capabilities with GPT-5.5 Instant</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — LLM Stats</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Signals competitive healthcare AI deployment and model capability expansion—contextual for tracking OpenAI's enterprise positioning against Anthropic's agentic gains.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="14-1,14-2,14-3">OpenAI upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant, which in comparative tests now outscores answers written by doctors in accuracy, clarity, and completeness.</cite></p>
-</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Financial Services Technology</h2>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://fintech.global/2026/06/18/navigating-the-next-era-of-ai-enabled-banking" style="color:#1a1a2e">Mollie Expands Across All 30 European Economic Area Countries with €350M Commitment</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ EU payment infrastructure expansion is relevant context for Eidosmedia's sell-side and buy-side clients operating cross-border, and signals broader financial services digitalization Cristiano's R+ product targets.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="24-3">Mollie, a fast-growing European financial services provider, has become fully operational across all 30 European Economic Area countries and is committing €350m over time.</cite></p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Critical to your competitive intelligence on major AI lab moves—Gemini co-lead Shazeer to OpenAI and AlphaFold lead Jumper to Anthropic signals where top talent and resources are concentrating.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333">Noam Shazeer, co-lead of Google's Gemini models and Transformer architecture co-author, is joining OpenAI. Days later, Nobel Prize-winning researcher John Jumper, who led AlphaFold at DeepMind, announced a move to Anthropic. The departures reflect competitive pressure inside Google's AI division, with staff expressing concerns about gaps in product strategy versus Anthropic and OpenAI, particularly in agentic coding tools.</p>
 </div>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://fintech.global/2026/06/18/navigating-the-next-era-of-ai-enabled-banking" style="color:#1a1a2e">SailPoint Acquires Entro for Non-Human Identity and Credentials Security</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
+    #2 — <a href="https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic" style="color:#1a1a2e">Google's Nobel winner jumps to Anthropic</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — The Rundown</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ NHI (non-human identity) security is directly relevant to governance of agentic AI in regulated finance—as your enterprise AI agents scale, credential and identity management for bots becomes a compliance requirement.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="24-3">SailPoint, a Nasdaq-listed enterprise identity security company, announced plans to acquire Tel Aviv-based Entro, a specialist in non-human identity (NHI) and credentials security.</cite></p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Direct signal of Anthropic's growing edge in the frontier race—John Jumper's move indicates his assessment that Anthropic has momentum in both research and enterprise positioning that DeepMind has lost.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333">John Jumper's departure to Anthropic marks a one-two punch alongside Shazeer's OpenAI move. After 2024-2025 saw Google's frontier models lead, 2026 has felt like a step backward compared to OpenAI and Anthropic. DeepMind's historical edge in science may be at risk as elite researchers vote with their feet.</p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #3 — <a href="https://aiagentstore.ai/ai-agent-news/this-week" style="color:#1a1a2e">AI Agent Governance as a Scaling Bottleneck</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — aiagentstore.ai</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Directly relevant to your enterprise AI governance strategy at Eidosmedia—shows the gap between deployments that scale versus 74% that get rolled back is governed AI architecture and audit controls.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333">A new GSPANN analysis reports that AI agent governance is the key differentiator between deployments that scale and the 74% that are rolled back. A separate FactMR study projects the AI agent audit and assurance services market will grow at 44% CAGR through 2036, driven by demand for independent testing before autonomous agents enter live workflows.</p>
 </div>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-06-19</p>
-</body></html>]]></description><pubDate>Fri, 19 Jun 2026 09:08:19 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-06-19.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-06-19.mp3" length="6550605" type="audio/mpeg" /><itunes:title>Daily Briefing — Friday, June 19 2026 · Claude Ecosystem, AI &amp; Technology, Financial Services Technology</itunes:title><itunes:subtitle>Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</itunes:subtitle><itunes:summary>Claude gains MCP tunnels and enterprise security upgrades as Anthropic doubles down on agentic infrastructure.</itunes:summary><itunes:duration>00:05:21</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
+<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-06-23</p>
+</body></html>]]></description><pubDate>Tue, 23 Jun 2026 07:52:40 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-06-23.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-06-23.mp3" length="4739040" type="audio/mpeg" /><itunes:title>Daily Briefing — Tuesday, June 23 2026 · AI &amp; Technology</itunes:title><itunes:subtitle>Google loses top AI researchers to OpenAI and Anthropic as talent consolidates around frontier labs</itunes:subtitle><itunes:summary>Google loses top AI researchers to OpenAI and Anthropic as talent consolidates around frontier labs</itunes:summary><itunes:duration>00:04:08</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
