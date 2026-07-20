@@ -1,89 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Friday, July 17 2026 · AI &amp; Technology, Financial Services Technology, Executive Leadership &amp; Strategy</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
-<h1 style="color:#1a1a2e">Daily Briefing — Friday, July 17 2026</h1>
-<p style="font-size:16px;font-style:italic;color:#444">Claude API gains enterprise AI governance controls while agentic compliance infrastructure secures $27M in funding.</p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Monday, July 20 2026 · Financial Services Technology, Executive Leadership &amp; Strategy</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
+<h1 style="color:#1a1a2e">Daily Briefing — Monday, July 20 2026</h1>
+<p style="font-size:16px;font-style:italic;color:#444">Moonshot AI's Kimi K3 disrupts model hierarchy; governance gaps persist as enterprises scale agentic AI</p>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
+<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Financial Services Technology</h2>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://platform.claude.com/docs/en/release-notes/overview" style="color:#1a1a2e">Claude API Boosts Rate Limits Across All Tiers and Rolls Out Agent Memory Beta Header</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Anthropic Release Notes</span>
+    #2 — <a href="https://vocal.media/01/how-ai-is-solving-fin-tech-s-biggest-compliance-problem-reg-tech-automation-in-2026" style="color:#1a1a2e">AI-driven compliance agents increasingly target ESG reporting and financial crime automation</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Vocal Media / RegTech Commentary</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Directly relevant to your Claude ecosystem OS: unified rate limits across Sonnet/Haiku/Opus tiers and new agent-memory-2026-07-22 beta header for production agent memory management.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333">Anthropic consolidated Claude API rate limits across all usage tiers (Start, Build, Scale), with Sonnet and Haiku now matching Opus capacity. New agent-memory beta header improves memory listing stability and reliability for agent deployments. Claude Opus 4.7 fast mode deprecated July 24, with migration path to Opus 4.8.</p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://aiagentstore.ai/ai-agent-news/this-week" style="color:#1a1a2e">Meta Acknowledged Agent Delays; ICML 2026 Signals Agentic AI Moving to ML Core with Heavy Focus on Governance</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — AI Agent Store</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Critical for your agentic workflow strategy: Meta's public admission of agent delays after restructuring; ICML 2026 shows safety and governance are now central to the field, not edge concerns.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333">ICML 2026 opened July 6 with record submissions and 60+ workshops on agentic AI—focused on safety, uncertainty, and autonomous agent governance. Meta publicly acknowledged AI agent efforts running behind schedule despite a $145B investment and 8,000-person reallocation. Message: agent shipping is harder than chatbots; governance and safety are core, not bolted-on.</p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #3 — <a href="https://agentic.ai/news" style="color:#1a1a2e">Abrigo Launches APX Agentic Platform for Lending Operations; AgentPrizm Ships Persistent Agent Memory with Audit Trails</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Agentic.ai</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Enterprise agentic patterns you're tracking for your Content Operating System: Abrigo targets the loan workflow orchestration gap; AgentPrizm addresses memory trust with audit trails—both solve real governance pain points.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333">Abrigo announced Agentic Platform Experience (APX) for Q3 2026 GA, orchestrating document collection, data review, and exception handling for lending workflows while maintaining audit trails and institution-specific guardrails. AgentPrizm launched AgentMemory platform July 9 with REST API plus MCP infrastructure, pairing persistent agent memory with audit trails showing each decision back to the user.</p>
-</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Financial Services Technology</h2>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://fintech.global/2026/07/16/hadrius-secures-27m-to-scale-agentic-compliance/" style="color:#1a1a2e">Hadrius Raises $27M to Scale Agentic Compliance Infrastructure for Financial Services</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Perfect alignment with your R+ product strategy: Hadrius unifies compliance as single AI-native function; demonstrates market momentum for agentic compliance tools serving sell-side and buy-side firms.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="43-1,43-3,43-4,43-5">Hadrius raised $27M led by CRV to scale agentic compliance infrastructure, with backing from Y Combinator and founders of Altruist and FINNY. Over 500 financial institutions currently use the platform, targeting consolidation of compliance into one AI-driven workflow.</cite> <cite index="43-6,43-7">AI is creating widening gaps between compliance volume and tool capacity; two-thirds of investment advisers deploy AI, expanding communication and trading activity flows that regulators now expect to be comprehensively overseen.</cite></p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://fintech.global/2026/07/16/uk-ai-champions-unveil-plan-to-fast-track-fintech-adoption/" style="color:#1a1a2e">UK AI Champions Release Plan to Fast-Track Safe AI Adoption Across Financial Services</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Regulatory framework clarity for cross-border financial services: UK AI Champions (Starling Bank, Lloyds) outline governance, regulatory perimeter, and agentic payments—essential intelligence for R+ EU compliance roadmap.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="42-1,42-2">The UK government's independent AI Champions from Starling Bank and Lloyds Banking Group released a plan with ten recommendations covering regulatory framework, AI-powered financial advice, operational resilience, skills and talent, and agentic payments.</cite> Plan sets next steps for government, regulators, and industry to remove adoption barriers.</p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #3 — <a href="https://fintech.global/2026/07/15/regulators-ai-tools-face-the-accountability-test/" style="color:#1a1a2e">Regulators' AI Tools Face Accountability Test as Rules Remain Unfinished</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — FinTech Global</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Critical for R+ governance narrative: AI is reshaping lending, disclosures, and compliance inside regulated firms, yet governance rules lag—emphasizes urgency of audit-ready, traceable workflows.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="41-1,41-2">AI is reshaping the financial sector at pace, approving loans, drafting disclosures and flagging suspicious transactions inside regulated firms, yet rules designed to govern it remain unfinished.</cite> <cite index="41-10,41-11">Supervisors are building AI oversight frameworks, but each new capability or failure mode emerges faster than existing drafts anticipated. Firms are being asked to comply with expectations still being written.</cite></p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ AI governance in regulated financial environments and ESG compliance automation are directly relevant to your governance framework and sell-side operations strategy.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="58-1,58-12,58-13,58-14">By 2026, RegTech platforms are increasingly supporting compliance beyond traditional financial regulations, particularly ESG reporting, supply chain oversight, and cybersecurity harmonization. The EU's Corporate Sustainability Reporting Directive and SEC climate disclosure rules have elevated ESG compliance from voluntary to hard legal obligation. AI-driven ESG compliance modules now automate data collection, audit trail generation, and regulatory reporting.</cite></p>
 </div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Executive Leadership & Strategy</h2>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026" style="color:#1a1a2e">Anthropic Hires Andrej Karpathy and Tom Blomfield as AI and Compute Talent War Intensifies</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Build Fast With AI</span>
+    #2 — <a href="https://agenticaiinstitute.org/agentic-ai-enterprise-adoption-2026-governance-gap/" style="color:#1a1a2e">Enterprise AI adoption reaches 72% production deployment but governance gap remains at 60%</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Agentic AI Institute</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Executive market signal: Anthropic recruiting Karpathy (OpenAI founding member, Tesla AI lead) and Blomfield (Monzo CEO) signals war for CTO/technology-strategy talent; validates Anthropic's positioning as destination for marquee leaders.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="28-15,28-16">Anthropic added Andrej Karpathy, former Tesla AI director and OpenAI founding member, and Tom Blomfield, co-founder and former CEO of Monzo, to its AI compute team. Hires extend aggressive 2026 recruiting that already brought Nobel laureate John Jumper from Google DeepMind.</cite> Signal: Anthropic is destination for AI executive talent.</p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026" style="color:#1a1a2e">Future of Life Institute Releases 2026 AI Safety Index: Anthropic Tops at C+, Others at C or Lower</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Build Fast With AI</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Board and investor signal: C+ grade for Anthropic (highest) underscores that safety governance is now table stakes for CTO/CPTO credibility and enterprise trust positioning.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="28-7,28-8,28-9">The Future of Life Institute's 2026 AI Safety Index awarded Anthropic a C+, OpenAI and Google DeepMind a C, Meta a D+, and xAI, DeepSeek, and Mistral effectively failed. Index scores labs on risk management, transparency, governance, and whether they honor safety commitments.</cite> <cite index="28-11,28-12">Even the most safety-focused frontier lab is doing a mediocre job by stated standards at exactly the moment systems are being wired into cybersecurity, healthcare audits, and autonomous agents. Anthropic topping the table validates its 2026 positioning as safety-and-enterprise lab.</cite></p>
-</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Claude Ecosystem</h2>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #1 — <a href="https://www.gradually.ai/en/changelogs/claude-code/" style="color:#1a1a2e">Claude Code Stability Update: Subagent Text Streaming, Permission Hardening, and Cross-Platform Fixes</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Claude Code Changelog</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Direct update to your personal AI assistant OS: subagent text streaming improves transparency; hardened permission previews prevent Unicode-based tool-input hijacking; session recovery fixes matter for long-running agents.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333">Claude Code shipped stability and workflow update with new subagent text streaming (--forward-subagent-text flag), improved permission preview security (neutralizing bidirectional-override and zero-width chars), faster terminal rendering. Fixes included session recovery from network drops during thinking, better upload handling across Chrome/Windows/Bedrock/Vertex, and improved auto mode behavior around tool approvals.</p>
-</div>
-<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
-  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://support.claude.com/en/articles/12138966-release-notes" style="color:#1a1a2e">Claude Sonnet 5 Introduced with 1M Token Context; Enterprise Admin Controls Now Include User Management API</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Anthropic Release Notes</span>
-  </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Model capability uplift with 1M context window and new enterprise admin API for managing Claude org users—relevant if scaling your personal OS into team deployment.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="12-10,12-11,12-14">Claude upgraded its smartest model with improved coding skills. Claude for Excel now uses Opus 4.6 and supports native Excel operations like pivot table editing. Admin API now supports user management across Claude Enterprise organizations: list members, change roles, manage groups and custom roles.</cite> Claude Sonnet 5 available with native 1M-token context window.</p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ The massive governance gap in agentic AI adoption is critical context for your executive strategy on AI governance, risk management, and organizational transformation.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="21-1,21-3">While agentic AI enterprise adoption in 2026 has reached 72% production proven, a massive 60% governance gap remains. This governance framework must be built now to support scaled deployments.</cite></p>
 </div>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-07-17</p>
-</body></html>]]></description><pubDate>Fri, 17 Jul 2026 06:21:03 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-07-17.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-07-17.mp3" length="8773005" type="audio/mpeg" /><itunes:title>Daily Briefing — Friday, July 17 2026 · AI &amp; Technology, Financial Services Technology, Executive Leadership &amp; Strategy</itunes:title><itunes:subtitle>Claude API gains enterprise AI governance controls while agentic compliance infrastructure secures $27M in funding.</itunes:subtitle><itunes:summary>Claude API gains enterprise AI governance controls while agentic compliance infrastructure secures $27M in funding.</itunes:summary><itunes:duration>00:07:51</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
+<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-07-20</p>
+</body></html>]]></description><pubDate>Mon, 20 Jul 2026 06:50:17 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-07-20.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-07-20.mp3" length="5776845" type="audio/mpeg" /><itunes:title>Daily Briefing — Monday, July 20 2026 · Financial Services Technology, Executive Leadership &amp; Strategy</itunes:title><itunes:subtitle>Moonshot AI's Kimi K3 disrupts model hierarchy; governance gaps persist as enterprises scale agentic AI</itunes:subtitle><itunes:summary>Moonshot AI's Kimi K3 disrupts model hierarchy; governance gaps persist as enterprises scale agentic AI</itunes:summary><itunes:duration>00:04:43</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
