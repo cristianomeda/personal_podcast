@@ -1,18 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Weekly Discovery — Saturday, October 3 2026 · Home Automation</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
-<h1 style="color:#1a1a2e">Weekly Discovery — Saturday, October 3 2026</h1>
-<p style="font-size:16px;font-style:italic;color:#444">Home Assistant 2026.10 heads to stable release; Netatmo adds dual-protocol thermostats with Zigbee and Matter support.</p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>Cristiano's Daily Briefing</title><description>Daily AI-curated news digest across technology, finance, executive leadership, and the UAE market.</description><link>https://cristianomeda.github.io/personal_podcast</link><language>en</language><itunes:author>Cristiano Meda</itunes:author><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type><itunes:category text="Technology" /><itunes:category text="Business" /><itunes:owner><itunes:name>Cristiano Meda</itunes:name><itunes:email>cristiano.meda@gmail.com</itunes:email></itunes:owner><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /><item><title>Daily Briefing — Tuesday, October 6 2026 · AI &amp; Technology, AI-Native Engineering &amp; AI-DLC, AI-Native Product Building</title><description><![CDATA[<!DOCTYPE html><html><body style="font-family:Georgia,serif;max-width:680px;margin:auto;padding:24px;color:#222">
+<h1 style="color:#1a1a2e">Daily Briefing — Tuesday, October 6 2026</h1>
+<p style="font-size:16px;font-style:italic;color:#444">Major AI labs testify to regulators on alignment risks as enterprise governance emerges as the defining competitive moat</p>
 <hr style="border:1px solid #e0e0e0;margin:20px 0">
-<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Home Automation</h2>
+<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI & Technology</h2>
 <div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
   <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
-    #2 — <a href="https://www.maison-et-domotique.com/en/173563-netatmo-upgrades-its-smart-heating-system-new-thermostatic-valves-zigbee-matter-and-room-by-room-control/" style="color:#1a1a2e">Netatmo Upgrades Smart Heating: New Thermostatic Valves Support Zigbee and Matter</a>
-    <span style="color:#888;font-weight:normal;font-size:13px"> — Maison et Domotique</span>
+    #1 — <a href="https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html" style="color:#1a1a2e">AI Executives Testify Before NYC Council on Existential Risks</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — CNBC / Quartz</span>
   </p>
-  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Direct upgrade path for your eight Netatmo radiator valve entities currently running over HomeKit Controller; new models add Zigbee and Matter options with better local control.</p>
-  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="34-4,34-7">Netatmo expands its ORIGINAL range with new Zigbee and Matter thermostatic radiator valves, and it now runs on Zigbee, with support for Matter.</cite> <cite index="34-8,34-9">The valves and thermostats don't speak Matter themselves; they communicate with the Thermo Hub over Zigbee, and it acts as the bridge to Matter.</cite></p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ First legislative testimony by major AI labs on alignment risks directly signals regulatory scrutiny of the frontier model development race you're tracking.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="31-2">Senior leaders from Anthropic, OpenAI, Google, and Meta testified under oath before the New York City Council on Monday about the dangers posed by artificial intelligence.</cite> <cite index="32-1">Former Google DeepMind researcher Alex Turner warned that "misaligned" artificial intelligence could prove more dangerous than China's aggressive development push.</cite></p>
 </div>
-
-<hr style="border:1px solid #e0e0e0;margin:20px 0"><p style="font-size:12px;color:#777"><b style="color:#555">Assistant status</b> — lint passing · 1 warning · 1 fact due re-verification · 18 signals archived this week · <b>1 staged context entry</b> awaiting triage<br><span style="color:#999">· 4 facts are maintained in more than one file - run `python scripts/lint_repository.py --duplicates` for the list, and `/context-architect` to reassign them to one owner</span></p><hr style="border:1px solid #e0e0e0;margin:20px 0">
-<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-10-03</p>
-</body></html>]]></description><pubDate>Sat, 03 Oct 2026 09:38:08 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-10-03.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-10-03.mp3" length="2151168" type="audio/mpeg" /><itunes:title>Weekly Discovery — Saturday, October 3 2026 · Home Automation</itunes:title><itunes:subtitle>Home Assistant 2026.10 heads to stable release; Netatmo adds dual-protocol thermostats with Zigbee and Matter support.</itunes:subtitle><itunes:summary>Home Assistant 2026.10 heads to stable release; Netatmo adds dual-protocol thermostats with Zigbee and Matter support.</itunes:summary><itunes:duration>00:02:17</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://dev.to/theautonomousedge/the-autonomous-edge-issue-9-the-agent-stack-matures-week-of-october-5-2026-1lnl" style="color:#1a1a2e">The Agent Stack Matures: Infrastructure Layer Powers This Week's Major Moves</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — DEV Community / The Autonomous Edge</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Tracks infrastructure-layer moves including OpenAI's dedicated compute and agent-orchestration acquisitions—directly relevant to your agentic draft generation and orchestration roadmap.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="4-2">This week's biggest moves came from the infrastructure layer rather than the chat window: OpenAI gave its AI agents dedicated cloud computers, a GTM data giant bought an agent-orchestration startup outright, and researchers showed just how fast agents can turn a bug report into a working exploit.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #3 — <a href="https://winbuzzer.com/2026/10/05/why-ai-researchers-left-openai-anthropic-and-google-deepmind-xcxwbn/" style="color:#1a1a2e">Researchers Depart OpenAI, Anthropic, and Google DeepMind Over Safety and Autonomy Concerns</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — WinBuzzer / New York Magazine</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Signals internal safety friction at frontier labs over research autonomy and race dynamics—clarifies the governance and alignment tensions informing enterprise AI guardrails work.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="35-3,35-7">Eight former AI lab employees have shared why work inside OpenAI, Anthropic and Google DeepMind stopped fitting their goals or principles, describing leaving over the AI race, military uses and research they could no longer pursue inside their companies.</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI-Native Engineering & AI-DLC</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://www.shiplight.ai/blog/ai-native-development-lifecycle" style="color:#1a1a2e">Verification Emerges as the New Bottleneck in AI-Native Development</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Shiplight AI</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Directly falsifies naive 'AI makes everything faster' narratives: real telemetry shows generate stage is 10x faster but verification did not accelerate proportionally, creating a new bottleneck that predicts throughput constraints.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="45-12,45-13,45-14">The generate stage got roughly 10x faster. The stages downstream, especially verification, did not, which makes verification the new bottleneck. Real telemetry backs this up: high-AI-adoption teams merged 98% more PRs but saw 91% longer review times and flat organization-level delivery metrics.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://plus8soft.com/blog/ai-coding-agents/" style="color:#1a1a2e">DORA 2024: AI Tool Adoption Correlated with Decreased Delivery Stability</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Plus8Soft</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Primary evidence from Google DORA challenging adoption-intensity claims: teams with higher adoption showed delivery stability decline of 7.2% per 25% adoption increase—key data for your thesis that maturity, not intensity, drives throughput.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="52-12,52-13,52-14,52-15">Google's DORA 2024 report found the pattern at the organizational level. Teams with higher AI tool adoption showed decreased delivery stability (−7.2% per 25% adoption increase) and decreased throughput (−1.5%). Individual developers reported higher productivity. The organization shipped less reliably.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #3 — <a href="https://www.techrev.us/blog/10-best-ai-coding-agents-for-developers-in-2026/" style="color:#1a1a2e">Enterprise AI Coding Agents Require Governance Layer, Not Just Productivity Gains</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — TechRev Blog</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Operationalizes governance patterns for agent-generated code: context, permissions, MCP tools, sandboxes, audit logs—aligns with your spec-driven and harness-first engineering practice.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="50-1,50-16,50-18,50-19">The biggest mistake companies make is treating AI coding agents like ordinary productivity software. An AI coding agent can access source code, execute commands and interact with external systems. That makes it closer to a software worker than a simple editor plugin.</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">AI-Native Product Building</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://agentic.ai/news" style="color:#1a1a2e">Vida Introduces Outcome-Based Billing for AI Agents: Agents Tied to Measurable Results</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Agentic AI News</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ First production outcome-based pricing for AI agents; shifts unit economics from 'software seat' to 'outcome achieved'—directly relevant to R+ and Méthode financial workflow automation pricing strategy.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="8-7,8-8,8-9,8-10,8-11">Vida introduced outcome-based billing for AI agents that qualify leads, complete warm transfers, handle onboarding, or win back lost customers. Its model arrives as businesses put AI agents into operational roles but often pay for them like traditional software. For those tracking AI sales tools, this links agent costs to measurable results instead of software access alone. Businesses set the success criteria, so the key detail is which outcomes and metrics they choose to count.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://agentic.ai/news" style="color:#1a1a2e">DaVinci Commerce Launches Product Context Memory for Personal Shopping Agents</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Agentic AI News</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Demonstrates proprietary context as product defensibility in agent workflows—echoes your thesis on workflow data and context as the durable moat in financial research products.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="8-2,8-3,8-4,8-5,8-6">DaVinci Commerce unveiled patent-pending Product Context Memory on Oct. 5. DaVinci Commerce announced Product Context Memory on Oct. 5 as part of an expansion of its Agentic Commerce Experience Platform. The technology is designed to help brands and retailers as personal AI agents increasingly shape shopping. For those tracking agentic AI product launches, it brings memory technology into the task of finding and buying products. The announcement leaves a key detail open: what product information will the memory give agents to use?</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Financial Services Technology</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://evolvancemarketresearch.com/statistics/ai-governance-statistics/" style="color:#1a1a2e">Enterprise AI Governance Gap Widens: Only 21% of Organizations Have Mature AI Agent Governance</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Evolvance Market Research</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Critical governance gap in regulated FS context: 74% of organizations plan agentic AI adoption within two years but only 21% have mature governance—directly applicable to your R+ and Méthode buyer landscape and risk profile.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="26-7,26-8,26-9,26-10">Agentic AI systems that act autonomously on behalf of organizations represent the next major enterprise deployment wave. Deloitte research finds 74% of organizations plan to adopt agentic AI within the next two years. However, only 21% of those organizations currently have a mature governance model for AI agents. The scale of this readiness gap makes agentic AI the most urgent governance challenge enterprises face in 2026.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://www.speakeasy.com/blog/2026-year-of-ai-governance" style="color:#1a1a2e">JPMorgan Chase Built Governance-First AI: 450+ Use Cases, 200K+ Employees, $1.8B Investment</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Speakeasy</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ FS proof point: governance-first approach embedded from the start enables scale; JPMorgan case study validates your thesis that the harness is the system for regulated environments.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="22-9,22-10,22-11">JPMorgan Chase and Goldman Sachs followed the same pattern. JPMorgan runs 450+ AI use cases daily across an in-house platform deployed to more than 200,000 employees. Its $1.8 billion AI investment was built governance-first, with a C-suite oversight council and compliance embedded from the start. Goldman runs every model through its Model Risk Management framework, with bias detection, data lineage tracking, and human-in-the-loop controls across all regulated operations.</cite></p>
+</div><h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Executive Leadership & Strategy</h2>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #1 — <a href="https://www.speakeasy.com/blog/2026-year-of-ai-governance" style="color:#1a1a2e">60% of Fortune 100 CEOs to Appoint Dedicated Head of AI Governance in 2026</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — Speakeasy</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Signals C-suite structural shift: governance leadership now a board-level priority and proxy for value creation in investor eyes—relevant to your broader executive positioning.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="22-4,22-5,22-6,22-7">Forrester predicts that 60% of Fortune 100 companies will appoint a dedicated head of AI governance in 2026. Sony, Bank of America, and UBS have already done so. Board oversight of AI has increased 84% in public company disclosures. Morgan Stanley and BlackRock are factoring AI governance maturity into company valuations.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #2 — <a href="https://www.marketscale.com/industries/software-and-technology/three-fault-lines-reshaping-enterprise-ai-in-2026-adoption-cost-and-security" style="color:#1a1a2e">AI Governance: The Defining Gap Between Leaders and Laggards</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — MarketScale</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Frames governance as the decisive competitive moat: Anthropic surpassing OpenAI in US business adoption, security exposure with every agent deployed—positions governance infrastructure as differentiator.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="21-2,21-3">Enterprise AI in mid-2026 faces three compounding pressures: a shift in model allegiances as Anthropic surpasses OpenAI in US business adoption, a cost crisis exemplified by Uber exhausting its entire 2026 AI budget by April, and a security exposure that multiplies with every autonomous agent deployed. Governance — spanning finance, security, and workforce capability — has emerged as the defining gap between organizations generating value from AI and those losing ground to it.</cite></p>
+</div>
+<div style="margin-bottom:20px;padding:14px;background:#f9f9f9;border-radius:6px">
+  <p style="margin:0 0 4px 0;font-size:15px;font-weight:bold">
+    #3 — <a href="https://www.marketscale.com/industries/software-and-technology/three-fault-lines-reshaping-enterprise-ai-in-2026-adoption-cost-and-security" style="color:#1a1a2e">Only 4% of Enterprises Generating Substantial Value from AI Despite 97% Believing It Will Transform Them</a>
+    <span style="color:#888;font-weight:normal;font-size:13px"> — MarketScale</span>
+  </p>
+  <p style="margin:4px 0;font-size:12px;color:#555;font-style:italic">★ Captures the adoption-to-value gap that governance maturity resolves; positions CTO/CPTO role as value creator when operating model and compliance are designed together.</p>
+  <p style="margin:6px 0 0 0;font-size:14px;color:#333"><cite index="21-5">Cutting across all three fault lines is a governance deficit that Iternal AI's enterprise AI strategy framework quantifies starkly: 97% of executives believe generative AI will fundamentally transform their companies, while only 4% are generating substantial value from it.</cite></p>
+</div>
+<h2 style="color:#1a1a2e;border-bottom:2px solid #e0e0e0;padding-bottom:6px">Learning</h2>
+<p style="font-size:12px;color:#555;margin:0 0 6px 0">Today's words: use two of them in today's drill.</p><div style="margin-bottom:10px;padding:10px 14px;background:#f9f9f9;border-radius:6px"><p style="margin:0;font-size:14px"><span style="color:#888;text-decoration:line-through">the big problem we need to fix</span> → <strong>the bottleneck</strong></p><p style="margin:4px 0 0 0;font-size:13px;color:#333;font-style:italic">“Verification has become our bottleneck—generation improved 10x, but review cycles lengthened 91%, so we&#x27;re shipping less reliably despite higher tool adoption.”</p><p style="margin:4px 0 0 0;font-size:11px;color:#999">from: Verification Emerges as the New Bottleneck in AI-Native Development</p></div><div style="margin-bottom:10px;padding:10px 14px;background:#f9f9f9;border-radius:6px"><p style="margin:0;font-size:14px"><span style="color:#888;text-decoration:line-through">companies that are ready / companies that are not ready</span> → <strong>leaders and laggards</strong></p><p style="margin:4px 0 0 0;font-size:13px;color:#333;font-style:italic">“The governance gap now separates leaders from laggards: those embedding compliance from day one scale safely, while those bolting it on afterward lose ground.”</p><p style="margin:4px 0 0 0;font-size:11px;color:#999">from: AI Governance: The Defining Gap Between Leaders and Laggards</p></div><div style="margin-bottom:10px;padding:10px 14px;background:#f9f9f9;border-radius:6px"><p style="margin:0;font-size:14px"><span style="color:#888;text-decoration:line-through">put in place / deploy</span> → <strong>embed</strong></p><p style="margin:4px 0 0 0;font-size:13px;color:#333;font-style:italic">“JPMorgan embedded compliance in its governance framework from inception, not as an afterthought, which is why it runs 450+ use cases safely across 200,000 employees.”</p><p style="margin:4px 0 0 0;font-size:11px;color:#999">from: JPMorgan Chase Built Governance-First AI: 450+ Use Cases, 200K+ Employees, $1.8B Investment</p><br><span style="color:#a33;font-size:12px">⚠ Non confondere con l&#x27;italiano &#x27;imbarazzare&#x27; (to embarrass)—&#x27;embed&#x27; significa integrare profondamente.</span></div>
+<hr style="border:1px solid #e0e0e0;margin:20px 0"><p style="font-size:12px;color:#777"><b style="color:#555">Assistant status</b> — lint passing · 1 warning · 1 fact due re-verification · 19 signals archived this week · 3 open nightly findings · <b>1 staged context entry</b> awaiting triage<br><span style="color:#999">· 4 facts are maintained in more than one file - run `python scripts/lint_repository.py --duplicates` for the list, and `/context-architect` to reassign them to one owner</span></p><hr style="border:1px solid #e0e0e0;margin:20px 0">
+<p style="font-size:12px;color:#aaa">Generated by your personal news agent · 2026-10-06</p>
+</body></html>]]></description><pubDate>Tue, 06 Oct 2026 11:01:25 +0000</pubDate><guid>https://cristianomeda.github.io/personal_podcast/2026-10-06.mp3</guid><enclosure url="https://cristianomeda.github.io/personal_podcast/2026-10-06.mp3" length="7032621" type="audio/mpeg" /><itunes:title>Daily Briefing — Tuesday, October 6 2026 · AI &amp; Technology, AI-Native Engineering &amp; AI-DLC, AI-Native Product Building</itunes:title><itunes:subtitle>Major AI labs testify to regulators on alignment risks as enterprise governance emerges as the defining competitive moat</itunes:subtitle><itunes:summary>Major AI labs testify to regulators on alignment risks as enterprise governance emerges as the defining competitive moat</itunes:summary><itunes:duration>00:07:27</itunes:duration><itunes:episode>1</itunes:episode><itunes:explicit>false</itunes:explicit><itunes:image href="https://cristianomeda.github.io/personal_podcast/artwork.jpg" /></item></channel></rss>
